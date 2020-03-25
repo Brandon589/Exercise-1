@@ -1,0 +1,6 @@
+#Exercise 1 (Mailing Adress)
+print("Brandon Chu")
+print("St. Robert CHS")
+print(8101,"Leslie ST.")
+print("ON", 'L3T 7P4' )
+print("905-889-4982")
